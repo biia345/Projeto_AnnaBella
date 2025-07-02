@@ -1,0 +1,64 @@
+body {
+	background: url('imagens/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+.capaimg {
+	width: 100%;
+	border-radius: 10px;
+}
+
+.spanlist {
+	font-weight: bold;
+	color: rgb(78, 78, 78);
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+  }
+
+li a{
+	padding: 0 10px;
+	text-decoration: none;
+	color: rgb(78, 78, 78);
+	font-weight: bold;
+}
+
+.h2style {
+	color: rgb(134, 134, 134);
+}
+
+.divbackgorund {
+	background-color: white;
+	border-radius: 10px;
+	padding: 5px 10px ;
+}
+
+footer {
+	font-weight: bold;
+	color: rgb(43, 43, 43);
+	text-align: center;
+	padding: 15px 0 10px 0;
+}
+
+.fotos {
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: rgb(168, 168, 168);
+}
+
+#contato {
+	text-align: center;
+	line-height: 1.5em;
+}
+
+nav {
+	background-color: rgb(168, 168, 168);;
+	border-radius: 10px;
+	padding: 0.4em;
+	margin: 0.3em 0 0.5em;
+}
